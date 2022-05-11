@@ -84,7 +84,7 @@ Headers
 
 By now you should have noticed, that # (hash-tags) are used to structure your content.
 The number of # defines the header-type and indentation.
-
+Adding some content
 ------------------------
 
 Task:
